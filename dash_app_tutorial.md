@@ -262,3 +262,7 @@ Upravte předchozí příklad; přidejte rozhodování na základě výběrovéh
 
 - Pokud uživatel vybere "Cena listků podle třídy" (`fare_class`), zobrazí se histogram nebo boxplot cen lístků dle tříd - tak, jak už je v příkladu. 
 - Pokud uživatel vybere "Věk cestujících podle třídy" (`age_class`), zobrazí se histogram nebo boxplot věku cestujících dle tříd.
+
+## Domácí úkol
+
+Nasaďte Dash aplikaci z předchozího cvičení na Heroku dle [tohoto návodu](https://github.com/anastazie/pyladies_data/blob/master/dash_app_deployment.md). Odkaz na Vaší aplikaci zašlete **nejpozději do 9.1.2018 11:00 CET**. Pokud chcete, můžete na poslední hodině obhajit svůj semestrální projekt, odkaz na něj zašlete předem na email.
